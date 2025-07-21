@@ -1,0 +1,14 @@
+object
+ building-> builder
+bricks,worker,cements
+yashu -> Structure
+Design->paper
+building -> plot
+
+class -> design
+object-> building
+  
+
+
+class design
+ create the object-> occupies space to the memory
